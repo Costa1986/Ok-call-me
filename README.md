@@ -17,6 +17,9 @@
 
 Данные выводы могут помочь понять, как различные факторы, такие как день недели, могут влиять на работу операторов и качество обслуживания вызовов. Это может быть полезной информацией при принятии решений о планировании ресурсов и оптимизации работы контактного центра.
 Презентация
+
 https://docs.google.com/presentation/d/1ARQoDMgx6Ij-d1XyJNglZAXcOssUoDQ379C-1jOrLks/edit?usp=sharing
+
 ссылка на дашборд 
+
 https://public.tableau.com/app/profile/.37513921/viz/Finaltelecom/Dashboard1?publish=yes
